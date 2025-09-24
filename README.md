@@ -1,6 +1,6 @@
 ## 🎵 How to Use
 - Clone the repo
-- Add your own songs in the `/songs` folder (MP3 files) and then create sub folder like classic hindi english pop and like that inside songs folder then add songs according to folder ... 
+- Add and Name you folder inside /songs like classic , hindi , english , pop and insert song there
 - Open `index.html` in your browser
 
 # 🎵 Spotify Player (JavaScript)  
